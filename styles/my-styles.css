@@ -1,0 +1,84 @@
+html{
+  scroll-behavior: smooth;
+}
+
+.navbar {
+  background-color: 
+ purple;
+}
+
+.navbar-brand. .nav-link {
+  color: white !important;
+}
+
+.navbar-brand:hover ,.nav-link:hover {
+  color:gold !important;
+}
+.dropdown-menu {
+  background-color: gold !important;
+}
+.carousel-caption {
+  background-color : rgb(0,0,0,0.5);
+  /*
+  width: 50%;
+  margin: 0;
+  */
+}
+
+/*my font awesome*/
+.fa-row{
+  background-color: grey;
+  padding-top: 30px;
+  padding-bottom: 40px;
+  color: #ffffff;
+  text-align: center;
+}
+
+.fab{
+  font-size: 60px;
+}
+
+.fab:hover, .fab-links:hover {
+  color: gold;
+  text-decoration: none;
+}
+
+.fab-links {
+  color: #ffffff;
+}
+
+.my-google-font{
+  font-size: 50px;
+  font-family: Roboto Mono;
+}
+
+
+@media (max-width: 700px) {
+  .carousel{
+    display: none;
+  }
+}
+
+.footer-row {
+  background-color: grey;
+  padding-top: 30px;
+  padding-bottom: 40px;
+  color: #ffffff;
+  text-align: center;
+}
+
+.footer-row a {
+  color: #ffffff;
+}
+
+.video-row{
+  text-align: center;
+  padding: 32px;
+}
+
+.google-font-sample {
+  text-align: left !important;
+  font-family: Lacquer;
+  font-size: 28px;
+  padding-left: 40px;
+}

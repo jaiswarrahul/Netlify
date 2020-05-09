@@ -1,0 +1,20 @@
+.container-fluid{
+  background-color: grey;
+  padding-top: 30px;
+  padding-bottom: 40px;
+  color: #ffffff;
+  text-align: center;
+}
+
+.fab{
+  font-size: 60px;
+}
+
+.fab:hover {
+  color: red;
+}
+
+.my-google-font{
+  font-size: 50px;
+  font-family: Roboto Mono;
+}
